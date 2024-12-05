@@ -3016,3 +3016,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [05Dec2024 23:01:25.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]
 [05Dec2024 23:01:40.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [05Dec2024 23:08:59.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[05Dec2024 23:10:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] aaa
