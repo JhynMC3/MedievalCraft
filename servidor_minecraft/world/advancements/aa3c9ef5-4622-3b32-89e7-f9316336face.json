@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "cold_desert": "2024-12-05 22:05:06 +0000"
-    },
-    "done": false
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-05 22:05:05 +0000"
@@ -26,12 +20,6 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-05 22:05:05 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2024-12-05 22:05:06 +0000"
     },
     "done": true
   },
@@ -65,9 +53,39 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "cold_desert": "2024-12-05 22:05:06 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-05 22:05:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "cold_desert": "2024-12-05 22:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2024-12-05 22:11:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-05 22:26:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-05 22:26:16 +0000"
     },
     "done": true
   },
