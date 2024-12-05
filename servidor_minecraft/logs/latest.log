@@ -3005,3 +3005,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [05Dec2024 22:31:35.287] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
 [05Dec2024 22:39:11.201] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Earnest'/784, l='ServerLevel[world]', x=-511.85, y=78.73, z=1058.30] died, message: 'Earnest was slain by Zombie'
 [05Dec2024 22:39:11.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Earnest'/784, l='ServerLevel[world]', x=-511.85, y=78.73, z=1058.30] died: Earnest was slain by Zombie
+[05Dec2024 22:58:52.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/7202, l='ServerLevel[world]', x=-427.35, y=-17.00, z=973.82] died: JhynMC was slain by Forgotten
+[05Dec2024 22:59:25.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[05Dec2024 22:59:25.659] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/7353, l='ServerLevel[world]', x=-411.84, y=-22.00, z=968.81] died: JhynMC was slain by JhynMC
+[05Dec2024 22:59:25.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/7197, l='ServerLevel[world]', x=-410.23, y=-22.00, z=968.77] died: JhynMC was slain by JhynMC
+[05Dec2024 22:59:29.673] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/6594, l='ServerLevel[world]', x=-409.65, y=-22.00, z=968.70] died: JhynMC was slain by JhynMC
+[05Dec2024 22:59:34.415] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JhynMC'/7192, l='ServerLevel[world]', x=-410.50, y=-22.00, z=970.53] died: JhynMC was slain by JhynMC
