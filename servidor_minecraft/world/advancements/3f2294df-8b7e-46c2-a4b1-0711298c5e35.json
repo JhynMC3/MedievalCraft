@@ -987,5 +987,11 @@
     },
     "done": true
   },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2024-12-05 22:59:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
