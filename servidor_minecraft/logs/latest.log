@@ -3054,3 +3054,33 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 03:26:06.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pero solo en solido funka
 [06Dec2024 03:30:22.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
 [06Dec2024 03:31:58.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -572.500000, 200.500000, 1336.500000]
+[06Dec2024 03:56:55.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Evelina'/11152, l='ServerLevel[world]', x=-519.70, y=77.56, z=1041.55] died, message: 'Evelina bled to death'
+[06Dec2024 03:56:55.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Evelina'/11152, l='ServerLevel[world]', x=-519.70, y=77.56, z=1041.55] died: Evelina bled to death
+[06Dec2024 03:57:05.992] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Errol'/11154, l='ServerLevel[world]', x=-509.64, y=77.00, z=1029.65] died, message: 'Errol was slain by Husk'
+[06Dec2024 03:57:05.992] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Errol'/11154, l='ServerLevel[world]', x=-509.64, y=77.00, z=1029.65] died: Errol was slain by Husk
+[06Dec2024 03:57:05.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Micaela'/11110, l='ServerLevel[world]', x=-519.70, y=78.45, z=1032.82] died, message: 'Micaela was slain by Zombie'
+[06Dec2024 03:57:05.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Micaela'/11110, l='ServerLevel[world]', x=-519.70, y=78.45, z=1032.82] died: Micaela was slain by Zombie
+[06Dec2024 03:57:07.448] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mitsuko'/11146, l='ServerLevel[world]', x=-519.38, y=77.69, z=1032.90] died, message: 'Mitsuko was slain by Zombie'
+[06Dec2024 03:57:07.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mitsuko'/11146, l='ServerLevel[world]', x=-519.38, y=77.69, z=1032.90] died: Mitsuko was slain by Zombie
+[06Dec2024 03:57:08.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jina'/11151, l='ServerLevel[world]', x=-508.88, y=77.00, z=1041.51] died, message: 'Jina was slain by Zombie'
+[06Dec2024 03:57:08.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jina'/11151, l='ServerLevel[world]', x=-508.88, y=77.00, z=1041.51] died: Jina was slain by Zombie
+[06Dec2024 03:57:12.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rochelle'/11147, l='ServerLevel[world]', x=-519.70, y=77.56, z=1034.51] died, message: 'Rochelle was slain by Zombie'
+[06Dec2024 03:57:12.595] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rochelle'/11147, l='ServerLevel[world]', x=-519.70, y=77.56, z=1034.51] died: Rochelle was slain by Zombie
+[06Dec2024 03:57:12.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Donnette'/11153, l='ServerLevel[world]', x=-517.01, y=77.30, z=1041.70] died, message: 'Donnette was slain by Zombie'
+[06Dec2024 03:57:12.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Donnette'/11153, l='ServerLevel[world]', x=-517.01, y=77.30, z=1041.70] died: Donnette was slain by Zombie
+[06Dec2024 03:57:14.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Tyron'/11148, l='ServerLevel[world]', x=-508.69, y=77.00, z=1029.34] died, message: 'Tyron was slain by Zombie'
+[06Dec2024 03:57:14.049] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tyron'/11148, l='ServerLevel[world]', x=-508.69, y=77.00, z=1029.34] died: Tyron was slain by Zombie
+[06Dec2024 03:57:14.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alexandra'/11149, l='ServerLevel[world]', x=-517.02, y=77.00, z=1041.70] died, message: 'Alexandra was slain by Zombie'
+[06Dec2024 03:57:14.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alexandra'/11149, l='ServerLevel[world]', x=-517.02, y=77.00, z=1041.70] died: Alexandra was slain by Zombie
+[06Dec2024 03:59:50.365] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Mitsuko'/25377, l='ServerLevel[world]', x=-508.72, y=77.00, z=1041.64] died: Mitsuko burned to death
+[06Dec2024 03:59:53.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jina'/25388, l='ServerLevel[world]', x=-508.30, y=77.00, z=1041.11] died: Jina burned to death
+[06Dec2024 03:59:56.038] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Micaela'/25343, l='ServerLevel[world]', x=-508.98, y=77.00, z=1041.70] died: Micaela burned to death
+[06Dec2024 04:04:05.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 lost connection: Timed out
+[06Dec2024 04:04:05.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 left the game
+[06Dec2024 04:04:07.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Alexandra'/25412, l='ServerLevel[world]', x=-508.32, y=77.00, z=1041.12] died: Alexandra burned to death
+[06Dec2024 04:05:34.235] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[06Dec2024 04:05:46.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.128.229.249:50999] logged in with entity id 27344 at (-401.76249998807907, 92.0, 1167.2252149816075)
+[06Dec2024 04:05:46.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[06Dec2024 04:05:46.405] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[06Dec2024 04:06:28.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yr
+[06Dec2024 04:06:33.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Oki
