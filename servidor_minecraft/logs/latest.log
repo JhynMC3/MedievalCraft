@@ -3084,3 +3084,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 04:05:46.405] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
 [06Dec2024 04:06:28.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yr
 [06Dec2024 04:06:33.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Oki
+[06Dec2024 04:08:18.953] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepeowo is 6f0520c6-d3ad-47b6-ab4f-efe625741aac
+[06Dec2024 04:08:25.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepeowo[/127.121.247.159:50813] logged in with entity id 27729 at (-349.26030435005373, 86.0, 1056.4861949177987)
+[06Dec2024 04:08:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo joined the game
+[06Dec2024 04:08:25.138] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
+[06Dec2024 04:10:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> wenas nochissss
+[06Dec2024 04:10:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> oye jhyn no es pór preocupar pero se esta quemando el bosque de atrar de la torre xD
