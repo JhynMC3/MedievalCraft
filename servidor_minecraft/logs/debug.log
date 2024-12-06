@@ -10101,3 +10101,29 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 22:45:04.630] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [06Dec2024 22:45:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Mending to JhynMC's item]
 [06Dec2024 22:45:22.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Depth Strider III to JhynMC's item]
+[06Dec2024 22:45:29.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Protection IV to JhynMC's item]
+[06Dec2024 22:45:49.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Longfooted V to JhynMC's item]
+[06Dec2024 22:45:58.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking III to JhynMC's item]
+[06Dec2024 22:46:05.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Feather Falling IV to JhynMC's item]
+[06Dec2024 22:46:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> xd
+[06Dec2024 22:46:32.401] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 22:46:32.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 22:46:43.035] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:47:19.036] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:47:25.698] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Dec2024 22:47:25.700] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from quad.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[06Dec2024 22:47:41.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:48:01.980] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:48:11.532] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:48:24.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:48:56.633] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:50:30.285] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:51:02.382] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:51:24.582] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:51:32.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 22:51:32.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 22:51:52.034] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:52:17.232] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:52:33.784] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:52:46.482] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 22:54:15.431] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
