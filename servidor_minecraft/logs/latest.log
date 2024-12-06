@@ -3028,3 +3028,20 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 22:45:58.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking III to JhynMC's item]
 [06Dec2024 22:46:05.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Feather Falling IV to JhynMC's item]
 [06Dec2024 22:46:11.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> xd
+[06Dec2024 23:02:13.374] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[06Dec2024 23:02:27.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.133.221.166:48443] logged in with entity id 4322 at (-370.78609942210977, 84.0, 1099.1368640851742)
+[06Dec2024 23:02:27.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[06Dec2024 23:02:27.652] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[06Dec2024 23:03:08.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> odi
+[06Dec2024 23:03:38.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-503, y=76, z=1033}
+[06Dec2024 23:03:38.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-503, y=76, z=1033}
+[06Dec2024 23:03:38.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-503, y=76, z=1033}
+[06Dec2024 23:03:38.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-503, y=76, z=1033}
+[06Dec2024 23:04:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ah holi
+[06Dec2024 23:04:29.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Perdón lo había dejao afk
+[06Dec2024 23:05:06.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> igual ahorita me acabo de concetar
+[06Dec2024 23:05:09.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> pepi te dijo algo?
+[06Dec2024 23:05:20.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No me ha contestado
+[06Dec2024 23:05:25.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
+[06Dec2024 23:05:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> vas a seguir juegando?
+[06Dec2024 23:05:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No creo xd
