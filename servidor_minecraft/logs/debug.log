@@ -10970,3 +10970,50 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 23:35:47.040] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [06Dec2024 23:36:02.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
 [06Dec2024 23:36:16.545] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:36:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> son dos
+[06Dec2024 23:36:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> otra ve
+[06Dec2024 23:36:32.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:36:32.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:36:49.440] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:37:12.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> rojo
+[06Dec2024 23:37:34.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Kyung'/10103, l='ServerLevel[world]', x=-481.45, y=67.00, z=1615.88] died: Kyung was shot by Skeleton
+[06Dec2024 23:37:36.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> solto un buebito
+[06Dec2024 23:38:02.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[06Dec2024 23:38:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[06Dec2024 23:38:10.624] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:38:27.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tas bien?
+[06Dec2024 23:38:47.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> 1
+[06Dec2024 23:38:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> veide
+[06Dec2024 23:39:04.124] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[06Dec2024 23:39:35.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -570.500000, 72.500000, 1664.500000]
+[06Dec2024 23:39:42.428] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:39:53.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[06Dec2024 23:40:54.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Grover'/10044, l='ServerLevel[world]', x=-749.50, y=65.56, z=1685.30] died, message: 'Grover was slain by Zombie'
+[06Dec2024 23:40:54.133] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Grover'/10044, l='ServerLevel[world]', x=-749.50, y=65.56, z=1685.30] died: Grover was slain by Zombie
+[06Dec2024 23:40:56.928] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:41:32.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:41:32.416] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:41:53.924] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bill'/10097, l='ServerLevel[world]', x=-530.49, y=81.00, z=1720.30] died, message: 'Bill was slain by Gale'
+[06Dec2024 23:41:53.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bill'/10097, l='ServerLevel[world]', x=-530.49, y=81.00, z=1720.30] died: Bill was slain by Gale
+[06Dec2024 23:42:26.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Johnny'/16794, l='ServerLevel[world]', x=-533.69, y=80.00, z=1725.75] died: Johnny was slain by Victor
+[06Dec2024 23:42:27.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rex'/10099, l='ServerLevel[world]', x=-529.51, y=81.00, z=1709.96] died, message: 'Rex was slain by Bill'
+[06Dec2024 23:42:27.724] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rex'/10099, l='ServerLevel[world]', x=-529.51, y=81.00, z=1709.96] died: Rex was slain by Bill
+[06Dec2024 23:42:28.720] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Gale'/16738, l='ServerLevel[world]', x=-534.00, y=80.00, z=1725.75] died: Gale was slain by Victor
+[06Dec2024 23:43:14.776] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Rex'/17040, l='ServerLevel[world]', x=-526.76, y=82.50, z=1727.91] died: Rex was slain by Iron Golem
+[06Dec2024 23:43:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[06Dec2024 23:43:19.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Bill'/16896, l='ServerLevel[world]', x=-526.68, y=80.00, z=1726.14] died: Bill was slain by Iron Golem
+[06Dec2024 23:43:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[06Dec2024 23:44:43.174] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:44:53.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que quieres?
+[06Dec2024 23:44:59.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> sangre o escamas
+[06Dec2024 23:45:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[06Dec2024 23:45:33.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:45:51.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que azul?
+[06Dec2024 23:45:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yt
+[06Dec2024 23:45:58.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:46:11.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:46:18.176] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:46:18.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:46:18.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:46:32.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:46:32.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
