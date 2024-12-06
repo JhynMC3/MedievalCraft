@@ -3090,3 +3090,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 04:08:25.138] [Server thread/INFO] [Jade/]: Syncing config to Pepeowo (6f0520c6-d3ad-47b6-ab4f-efe625741aac)
 [06Dec2024 04:10:25.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> wenas nochissss
 [06Dec2024 04:10:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> oye jhyn no es pór preocupar pero se esta quemando el bosque de atrar de la torre xD
+[06Dec2024 04:25:22.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
+[06Dec2024 04:25:22.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
