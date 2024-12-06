@@ -3062,3 +3062,45 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 23:22:55.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-604, y=6, z=1462} BlockPos{x=-639, y=1, z=1457}
 [06Dec2024 23:22:55.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-639, y=0, z=1457} BlockPos{x=-639, y=1, z=1457}
 [06Dec2024 23:25:50.259] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[06Dec2024 23:26:08.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:33033] logged in with entity id 10691 at (-408.31435218925185, 90.0, 1116.1066922120415)
+[06Dec2024 23:26:08.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[06Dec2024 23:26:08.293] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[06Dec2024 23:26:58.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ola de nuez
+[06Dec2024 23:28:17.384] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[06Dec2024 23:28:29.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> hi
+[06Dec2024 23:28:32.074] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.128.229.249:34375] logged in with entity id 11977 at (-400.5, 98.5625, 1183.5)
+[06Dec2024 23:28:32.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[06Dec2024 23:28:32.185] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[06Dec2024 23:28:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> ya me estoy chingando al dragon que veo :v
+[06Dec2024 23:28:47.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> lo malo?, casi me hace un hijo el último que vi
+[06Dec2024 23:28:53.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> mujer tenia que ser
+[06Dec2024 23:29:56.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> jhyn, ds?
+[06Dec2024 23:30:15.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> voy
+[06Dec2024 23:30:21.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> cual?
+[06Dec2024 23:30:24.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Eso
+[06Dec2024 23:30:30.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Facheros o el otro?
+[06Dec2024 23:30:58.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> Facheros
+[06Dec2024 23:31:17.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[06Dec2024 23:31:27.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Holiwis
+[06Dec2024 23:31:30.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[06Dec2024 23:31:37.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> odi
+[06Dec2024 23:31:39.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set Pepishikita21's game mode to Creative Mode]
+[06Dec2024 23:31:45.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ponga este comando
+[06Dec2024 23:31:51.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ./deathhistory Pepishikita21
+[06Dec2024 23:32:10.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya
+[06Dec2024 23:32:13.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> le da item y robar items
+[06Dec2024 23:32:18.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yap
+[06Dec2024 23:32:22.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Se muere para siempre
+[06Dec2024 23:32:29.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> y pos ya, revise si le falta algo
+[06Dec2024 23:32:45.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ta todo completo
+[06Dec2024 23:32:53.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> amuletos, mochilas?
+[06Dec2024 23:33:02.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> weno pues :D
+[06Dec2024 23:33:11.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[06Dec2024 23:33:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Eso eso usted revise bien y me avisa
+[06Dec2024 23:34:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi ta todo
+[06Dec2024 23:34:26.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Eira
+[06Dec2024 23:34:28.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[06Dec2024 23:34:29.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> lo tengo
+[06Dec2024 23:34:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set Pepishikita21's game mode to Survival Mode]
+[06Dec2024 23:35:37.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> puedo tp gonda?
+[06Dec2024 23:36:02.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
