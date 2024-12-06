@@ -10383,3 +10383,41 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 23:05:25.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> a
 [06Dec2024 23:05:35.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> vas a seguir juegando?
 [06Dec2024 23:05:42.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> No creo xd
+[06Dec2024 23:05:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a decirte iba que si recordabas como era lo del inventario
+[06Dec2024 23:05:56.394] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:06:08.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> deathstory
+[06Dec2024 23:06:18.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:06:29.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> así es xD
+[06Dec2024 23:06:32.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:06:32.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:06:48.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> weno si Pepi no se conceta y ya no vas a jugar me avisas para apaagrlo
+[06Dec2024 23:07:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> yo si wa seguir
+[06Dec2024 23:07:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> hay dragones que cazar :v
+[06Dec2024 23:07:33.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:07:33.942] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:07:35.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[06Dec2024 23:07:41.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Oki pues
+[06Dec2024 23:07:49.585] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[06Dec2024 23:07:50.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Intento regresar en un rato
+[06Dec2024 23:07:51.688] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[06Dec2024 23:07:52.489] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[06Dec2024 23:07:52.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[06Dec2024 23:07:54.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> va
+[06Dec2024 23:07:59.789] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:08:17.979] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:08:55.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:08:55.680] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:10:45.082] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:10:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 84.500000, 1154.500000]
+[06Dec2024 23:10:46.397] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:10:47.581] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:11:17.734] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:11:32.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:11:32.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:11:40.290] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:13:49.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:14:04.035] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:14:06.731] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:14:33.727] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:14:36.773] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:15:18.427] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
