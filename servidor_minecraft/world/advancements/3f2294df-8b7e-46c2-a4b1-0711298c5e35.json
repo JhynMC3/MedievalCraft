@@ -1000,15 +1000,15 @@
     },
     "done": true
   },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2024-12-06 06:14:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-06 06:12:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-06 06:14:08 +0000"
     },
     "done": true
   },

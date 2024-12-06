@@ -687,21 +687,33 @@
     },
     "done": true
   },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2024-12-06 06:08:26 +0000"
-    },
-    "done": true
-  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-06 04:17:52 +0000"
     },
     "done": true
   },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-06 06:08:26 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_monstrosity": {
     "criteria": {
       "netheritemonstrosity": "2024-12-06 06:19:03 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:root": {
+    "criteria": {
+      "awesomedungeonnether:nth_accum_quad": "2024-12-06 06:28:21 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_accum_quad/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-06 06:28:21 +0000"
     },
     "done": true
   },
