@@ -3100,3 +3100,23 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 04:32:14.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PriestEntity['Carter'/31987, l='ServerLevel[world]', x=-468.50, y=80.00, z=892.50] died: Carter drowned
 [06Dec2024 04:34:51.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> OA PEPEEEEEE
 [06Dec2024 04:35:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> como esta señorita como va todo?
+[06Dec2024 04:38:05.233] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[06Dec2024 04:38:21.223] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.133.221.166:49677] logged in with entity id 36847 at (-573.5814815781782, 200.0, 1338.3007258600219)
+[06Dec2024 04:38:21.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[06Dec2024 04:38:21.256] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[06Dec2024 04:39:36.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Holiii
+[06Dec2024 04:39:42.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> oa jhynsito
+[06Dec2024 04:39:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Pepe vamo a tar en ds
+[06Dec2024 04:39:56.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> por si nos quiere acompañars
+[06Dec2024 04:41:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> todo guf
+[06Dec2024 04:41:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ojála
+[06Dec2024 04:41:26.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> estoy en stream no hay problema?
+[06Dec2024 04:41:51.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ño
+[06Dec2024 04:43:47.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> x2, no sé que ahce eso xd
+[06Dec2024 04:45:04.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pereme Pepe
+[06Dec2024 04:45:17.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -1181.500000, -18.500000, 87.500000]
+[06Dec2024 04:45:37.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepeowo: Teleported Pepeowo to -327.500000, 85.500000, 1072.500000]
+[06Dec2024 04:46:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> la roca parece netherack xD
+[06Dec2024 04:46:51.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Con efi 6
+[06Dec2024 04:47:06.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> en un yunque
+[06Dec2024 04:47:23.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> aumenta el rango del dash
