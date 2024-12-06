@@ -3004,3 +3004,22 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 22:34:48.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:36543] logged in with entity id 122 at (-410.5312602424514, 90.0625, 1109.8640810501176)
 [06Dec2024 22:34:48.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
 [06Dec2024 22:34:48.620] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[06Dec2024 22:37:09.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Config for bettercombat of type SERVER not found]
+[06Dec2024 22:37:17.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Config for bettercombat of type CLIENT not found]
+[06Dec2024 22:37:21.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Config for bettercombat of type COMMON not found]
+[06Dec2024 22:37:59.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Config for fallingtree of type SERVER not found]
+[06Dec2024 22:39:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Gave 4 [Armor Stand] to JhynMC]
+[06Dec2024 22:41:43.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking III to JhynMC's item]
+[06Dec2024 22:42:09.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Respiration III to JhynMC's item]
+[06Dec2024 22:42:17.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Mending to JhynMC's item]
+[06Dec2024 22:42:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Protection IV to JhynMC's item]
+[06Dec2024 22:42:37.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Aqua Affinity to JhynMC's item]
+[06Dec2024 22:43:16.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Multi-Roll IV to JhynMC's item]
+[06Dec2024 22:44:13.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking III to JhynMC's item]
+[06Dec2024 22:44:17.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Protection IV to JhynMC's item]
+[06Dec2024 22:44:21.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Mending to JhynMC's item]
+[06Dec2024 22:44:42.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Unbreaking III to JhynMC's item]
+[06Dec2024 22:44:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Protection IV to JhynMC's item]
+[06Dec2024 22:44:49.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Mending to JhynMC's item]
+[06Dec2024 22:45:05.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Mending to JhynMC's item]
+[06Dec2024 22:45:22.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Applied enchantment Depth Strider III to JhynMC's item]
