@@ -136,6 +136,7 @@
       "minecraft:snowy_plains": "2024-11-16 02:05:31 +0000",
       "minecraft:stony_shore": "2024-11-19 05:04:48 +0000",
       "minecraft:snowy_taiga": "2024-11-30 02:46:54 +0000",
+      "minecraft:dripstone_caves": "2024-12-06 06:07:43 +0000",
       "minecraft:grove": "2024-11-30 02:46:47 +0000",
       "minecraft:swamp": "2024-12-02 05:31:45 +0000",
       "minecraft:jagged_peaks": "2024-11-30 02:47:58 +0000",
@@ -940,6 +941,30 @@
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2024-12-06 05:54:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2024-12-06 06:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-12-06 06:16:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-06 06:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-06 06:16:43 +0000"
     },
     "done": true
   },
