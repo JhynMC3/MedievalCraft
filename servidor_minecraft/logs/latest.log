@@ -3092,3 +3092,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 04:10:59.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> oye jhyn no es pór preocupar pero se esta quemando el bosque de atrar de la torre xD
 [06Dec2024 04:25:22.289] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
 [06Dec2024 04:25:22.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[06Dec2024 04:30:17.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] 0.0
+[06Dec2024 04:30:27.006] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[06Dec2024 04:30:44.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:53197] logged in with entity id 33647 at (-415.69999998807907, 95.0, 1117.699999988079)
+[06Dec2024 04:30:44.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[06Dec2024 04:30:44.956] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[06Dec2024 04:32:14.695] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PriestEntity['Carter'/31987, l='ServerLevel[world]', x=-468.50, y=80.00, z=892.50] died: Carter drowned
+[06Dec2024 04:34:51.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> OA PEPEEEEEE
+[06Dec2024 04:35:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> como esta señorita como va todo?
