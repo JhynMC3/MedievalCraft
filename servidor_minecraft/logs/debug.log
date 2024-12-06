@@ -12522,3 +12522,69 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 06:18:33.078] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Dec2024 06:18:33.178] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Dec2024 06:18:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported Pepeowo to JhynMC]
+[06Dec2024 06:19:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has completed the challenge [The broken Nether's warmachine]
+[06Dec2024 06:19:35.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Hidden in the Depths]
+[06Dec2024 06:20:12.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [A Terrible Fortress]
+[06Dec2024 06:20:30.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [A Terrible Fortress]
+[06Dec2024 06:20:40.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Un lord demonio
+[06Dec2024 06:20:41.572] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[06Dec2024 06:20:54.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> es mini jefe
+[06Dec2024 06:20:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> gonda
+[06Dec2024 06:20:58.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[06Dec2024 06:21:17.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepeowo]
+[06Dec2024 06:21:31.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> gonda
+[06Dec2024 06:21:33.485] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -135 0 390
+[06Dec2024 06:21:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> solo los 1500 viwers de Pepe :kappa:
+[06Dec2024 06:21:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ven
+[06Dec2024 06:21:40.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[06Dec2024 06:22:09.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 06:22:09.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 06:22:55.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fuuuuu
+[06Dec2024 06:22:56.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fuuu
+[06Dec2024 06:22:59.741] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: 3f2294df-8b7e-46c2-a4b1-0711298c5e35 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=c6d60352-fbaa-42dc-9554-1f7a25fdf089, length=61, extra={valid=true}}, startingAt=0, player=null}
+[06Dec2024 06:23:03.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> soplaleee
+[06Dec2024 06:23:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ta bien?
+[06Dec2024 06:23:11.801] [Netty Epoll Server IO #4/DEBUG] [emotecraft/]: [emotes server] Received data from: 3f2294df-8b7e-46c2-a4b1-0711298c5e35 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=c6d60352-fbaa-42dc-9554-1f7a25fdf089, emoteData=null, startingAt=0, player=null}
+[06Dec2024 06:23:15.729] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [3f2294df-8b7e-46c2-a4b1-0711298c5e35]
+[06Dec2024 06:24:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> shi
+[06Dec2024 06:24:09.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> saluh
+[06Dec2024 06:24:21.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepeowo> xaero-waypoint:casa:C:-328:85:1072:1:false:0:Internal-overworld-waypoints
+[06Dec2024 06:24:22.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pense que estaba muteada
+[06Dec2024 06:24:27.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> grafia
+[06Dec2024 06:24:33.379] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 230 0 412
+[06Dec2024 06:25:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> xaero-waypoint:Waypoint:X:-1073:-15:4199:1:false:0:Internal-overworld-waypoints
+[06Dec2024 06:25:13.672] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[06Dec2024 06:25:50.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pera
+[06Dec2024 06:26:46.481] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 223 0 497
+[06Dec2024 06:26:51.381] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -27 0 522
+[06Dec2024 06:27:02.789] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1092 0 4209
+[06Dec2024 06:27:02.853] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1050 0 4182
+[06Dec2024 06:27:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -1072.500000, -14.500000, 4199.500000]
+[06Dec2024 06:27:04.218] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1136 0 4213
+[06Dec2024 06:27:05.523] [Worker-Main-1/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1136 0 4268
+[06Dec2024 06:27:05.777] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1000 0 4232
+[06Dec2024 06:27:09.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 06:27:09.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 06:27:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 fell out of the world
+[06Dec2024 06:27:09.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> weeee
+[06Dec2024 06:27:10.428] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -1169 0 4319
+[06Dec2024 06:27:15.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[06Dec2024 06:27:17.014] [Server thread/DEBUG] [twilightforest/]: Player Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545) respawned and received items held in storage
+[06Dec2024 06:27:17.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! 0.0,-11.378243736701677,0.0
+[06Dec2024 06:27:17.275] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -961 0 4326
+[06Dec2024 06:27:18.909] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 06:27:19.878] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 06:27:21.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 fell out of the world
+[06Dec2024 06:27:22.099] [Worker-Main-3/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -947 0 4062
+[06Dec2024 06:27:22.312] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [fb80eadb-e490-4091-8339-fd6f62ec3f5f]
+[06Dec2024 06:27:26.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Donde me mandaste?
+[06Dec2024 06:27:33.748] [Server thread/DEBUG] [twilightforest/]: Player Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785) respawned and received items held in storage
+[06Dec2024 06:27:51.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> que tan abajo lo pusisiste?
+[06Dec2024 06:27:52.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -1072.500000, -14.500000, 4199.500000]
+[06Dec2024 06:27:58.352] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: 310 0 529
+[06Dec2024 06:27:58.838] [Worker-Main-2/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -52 0 531
+[06Dec2024 06:28:10.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[06Dec2024 06:28:21.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepeowo has completed the challenge [Find: Accum quad]
+[06Dec2024 06:28:23.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ya vengo Pepe
+[06Dec2024 06:28:28.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[06Dec2024 06:28:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Spectator Mode]

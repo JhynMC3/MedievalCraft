@@ -622,6 +622,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-02 06:24:03 +0000",
+      "minecraft:nether_wastes": "2024-12-06 06:25:08 +0000",
       "minecraft:warped_forest": "2024-12-02 02:53:22 +0000"
     },
     "done": false
@@ -695,6 +696,12 @@
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2024-12-06 04:17:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2024-12-06 06:19:03 +0000"
     },
     "done": true
   },
