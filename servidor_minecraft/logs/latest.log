@@ -3058,3 +3058,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 23:07:52.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
 [06Dec2024 23:07:54.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Gondar_80> va
 [06Dec2024 23:10:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -396.500000, 84.500000, 1154.500000]
+[06Dec2024 23:20:17.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :b
+[06Dec2024 23:22:55.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-604, y=6, z=1462} BlockPos{x=-639, y=1, z=1457}
+[06Dec2024 23:22:55.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-639, y=0, z=1457} BlockPos{x=-639, y=1, z=1457}
+[06Dec2024 23:25:50.259] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
