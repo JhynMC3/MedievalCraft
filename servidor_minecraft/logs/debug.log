@@ -11017,3 +11017,37 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 23:46:18.177] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [06Dec2024 23:46:32.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Dec2024 23:46:32.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:46:55.282] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:50:08.478] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:50:26.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya
+[06Dec2024 23:50:34.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que coso azul?
+[06Dec2024 23:50:41.979] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:51:32.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:51:32.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:51:33.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pero no has mandado nada a ds
+[06Dec2024 23:51:42.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[06Dec2024 23:51:46.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no te escuche
+[06Dec2024 23:52:10.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> iiiigh
+[06Dec2024 23:52:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ño
+[06Dec2024 23:52:17.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -532.500000, 84.500000, 1708.500000]
+[06Dec2024 23:52:17.930] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:52:17.931] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:52:20.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya
+[06Dec2024 23:52:22.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[06Dec2024 23:52:22.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tp
+[06Dec2024 23:53:08.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> peidon me hablo mi ama
+[06Dec2024 23:53:11.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que dijiste?
+[06Dec2024 23:53:32.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[06Dec2024 23:54:40.048] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-902, y=16, z=2071}
+[06Dec2024 23:54:47.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> 29
+[06Dec2024 23:55:00.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-491, y=-2, z=1711} BlockPos{x=-685, y=81, z=1869}
+[06Dec2024 23:55:09.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=77, z=1869} BlockPos{x=-685, y=78, z=1869}
+[06Dec2024 23:55:17.929] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=60, z=1869} BlockPos{x=-685, y=59, z=1869}
+[06Dec2024 23:55:18.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=56, z=1869} BlockPos{x=-685, y=57, z=1869}
+[06Dec2024 23:55:57.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=26, z=1869} BlockPos{x=-685, y=25, z=1869}
+[06Dec2024 23:56:10.182] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[06Dec2024 23:56:22.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yr mi mm quiere que vaya por frances
+[06Dec2024 23:56:32.395] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Dec2024 23:56:32.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Dec2024 23:56:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> matalo
+[06Dec2024 23:56:41.427] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
