@@ -3023,3 +3023,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 02:59:09.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> quiere aiuda?
 [06Dec2024 02:59:18.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ya terminé
 [06Dec2024 02:59:24.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[06Dec2024 03:15:19.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Timed out
+[06Dec2024 03:15:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[06Dec2024 03:15:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[06Dec2024 03:15:34.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[06Dec2024 03:15:44.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> si no quiere estar conmigo, solo digalo:c
+[06Dec2024 03:15:51.328] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
