@@ -13612,3 +13612,571 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 03:20:02.293] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [07Dec2024 03:21:07.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2844, y=19, z=3841} BlockPos{x=-2843, y=19, z=3841}
 [07Dec2024 03:21:07.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2844, y=19, z=3841} BlockPos{x=-2842, y=19, z=3841}
+[07Dec2024 03:21:13.351] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[07Dec2024 03:21:15.042] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:21:15.043] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:21:26.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2820, y=23, z=3844} BlockPos{x=-2819, y=24, z=3844}
+[07Dec2024 03:21:26.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2820, y=23, z=3844} BlockPos{x=-2819, y=24, z=3844}
+[07Dec2024 03:21:26.106] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2820, y=23, z=3844} BlockPos{x=-2819, y=24, z=3844}
+[07Dec2024 03:21:26.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2820, y=23, z=3844} BlockPos{x=-2819, y=24, z=3844}
+[07Dec2024 03:21:27.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2819, y=23, z=3844} BlockPos{x=-2819, y=25, z=3844}
+[07Dec2024 03:21:27.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2819, y=23, z=3844} BlockPos{x=-2818, y=26, z=3844}
+[07Dec2024 03:21:32.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2817, y=26, z=3843} BlockPos{x=-2819, y=26, z=3842}
+[07Dec2024 03:21:32.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2817, y=26, z=3843} BlockPos{x=-2821, y=26, z=3842}
+[07Dec2024 03:21:47.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:21:47.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:21:57.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2842, y=42, z=3839} BlockPos{x=-2842, y=47, z=3835}
+[07Dec2024 03:21:59.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2842, y=49, z=3834} BlockPos{x=-2842, y=49, z=3835}
+[07Dec2024 03:22:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Voluntary Exile]
+[07Dec2024 03:22:33.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:22:37.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2842, y=68, z=3813} BlockPos{x=-2842, y=69, z=3813}
+[07Dec2024 03:22:38.600] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2842, y=69, z=3812} BlockPos{x=-2842, y=68, z=3813}
+[07Dec2024 03:22:51.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:23:12.238] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:23:21.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> OYE VE A COMER
+[07Dec2024 03:23:39.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pero dijiste que tienes hambre
+[07Dec2024 03:23:45.392] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[07Dec2024 03:23:51.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:24:11.939] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:24:15.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=101, z=3800} BlockPos{x=-2868, y=101, z=3800}
+[07Dec2024 03:24:15.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=101, z=3800} BlockPos{x=-2868, y=101, z=3800}
+[07Dec2024 03:24:15.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=101, z=3800} BlockPos{x=-2868, y=101, z=3800}
+[07Dec2024 03:24:15.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=101, z=3800} BlockPos{x=-2868, y=101, z=3800}
+[07Dec2024 03:24:15.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=101, z=3800} BlockPos{x=-2868, y=101, z=3800}
+[07Dec2024 03:24:15.395] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2867, y=101, z=3800} BlockPos{x=-2868, y=101, z=3800}
+[07Dec2024 03:24:15.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2870, y=104, z=3800} BlockPos{x=-2870, y=102, z=3800}
+[07Dec2024 03:24:33.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2879, y=110, z=3800} BlockPos{x=-2869, y=104, z=3801}
+[07Dec2024 03:24:33.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2879, y=110, z=3800} BlockPos{x=-2868, y=104, z=3801}
+[07Dec2024 03:24:42.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:24:53.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:25:04.089] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:25:38.335] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:25:38.335] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:25:55.090] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:26:00.886] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:26:08.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:26:16.691] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:26:37.934] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[07Dec2024 03:26:42.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:26:47.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:26:47.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:26:50.027] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 35 messages to dispatch.
+[07Dec2024 03:26:50.723] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[07Dec2024 03:26:50.745] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[07Dec2024 03:26:50.797] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[07Dec2024 03:26:50.836] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[07Dec2024 03:26:50.887] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 3
+[07Dec2024 03:26:50.938] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[07Dec2024 03:26:50.986] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[07Dec2024 03:26:51.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[07Dec2024 03:26:51.086] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry celestisynth:cs_visuals' to 'fml:handshake' sequence 7
+[07Dec2024 03:26:51.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[07Dec2024 03:26:51.190] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 9
+[07Dec2024 03:26:51.235] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 10
+[07Dec2024 03:26:51.285] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 11
+[07Dec2024 03:26:51.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 12
+[07Dec2024 03:26:51.388] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 13
+[07Dec2024 03:26:51.436] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 14
+[07Dec2024 03:26:51.437] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[07Dec2024 03:26:51.437] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[07Dec2024 03:26:51.437] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [weaponmaster_ydm, moremcmeta_emissive_plugin, dynamiclightsreforged, kuma_api, nethervillagertrader, playeranimator, illagerinvasion, majruszsdifficulty, loadingbackgrounds, sophisticatedcore, villagernames, xaeroworldmap, prism, citadel, alexsmobs, yungsapi, mixinextras, chestedcompanions, sophisticatedbackpacks, lootbeams, guardvillagers, medievalend, medieval_buildings, simply_houses, balm, immersive_armors, illager_trader, fpsreducer, carryon, melody, jeresources, betterfortresses, cloth_config, ctov, twilightforest, konkrete, embeddium, rubidium, embeddiumplus, corpse, entity_model_features, entity_texture_features, taxov, lionfishapi, villagespawnpoint, mysticaloaktree, cataclysm, curios, oculus, collective, cerbons_api, seadwellers, betterstrongholds, starterkit, architectury, cupboard, betterendisland, quad, celestisynth, fallingtree, smallships, t_and_t, yeetusexperimentus, chas, playerrevive, majruszlibrary, radium, ls_secret_paintings, mowziesmobs, geckolib, moremcmeta, moremcmeta_texture_plugin, trashslot, awesomedungeonend, realmrpg_demons, jei, lithostitched, libraryferret, caelus, realmrpg_skeletons, waystones, fabledweaponry, awesomedungeon, artifacts, configured, itemborders, magistuarmory, iceandfire, bosses_of_mass_destruction, puzzlesaccessapi, forge, castle_dungeons, emotecraft, dungeons_arise, awesomedungeonocean, tectonic, zillagersweararmor, minecraft, lolmcv, trade_cycling, terrablender, biomesoplenty, moonlight, mousetweaks, bettercombat, combatroll, necronomicon, awesomedungeonnether, taxcp, moremcmeta_animation_plugin, jade, shouldersurfing, creativecore, moremcmeta_json_parser_plugin, spectrelib, betterfpsdist, kotlinforforge, ribbits, iceberg, xaerominimap, polymorph, zeta, quark, irons_spellbooks, armoroftheages, entityculling, moremcmeta_properties_parser_plugin, pickableorbs, endlessbiomes, fancymenu, immediatelyfast, tlc, puzzleslib, moremcmeta_gui_plugin, justzoom, cosmeticarmorreworked, expandability, realmrpg_quests, cristellib]
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ia:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'majruszsdifficulty:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_select_first_slot_packet' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_quests:realmrpg_quests' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_skeletons:realmrpg_skeletons' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'endlessbiomes:endlessbiomes' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'illager_trader:illager_trader' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'seadwellers:seadwellers' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_ask_if_mod_is_installed_packet' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'celestisynth:messages' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_server_send_kit_choice_packet' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'taxov:taxov' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.439] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nethervillagertrader:nethervillagertrader' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ls_secret_paintings:ls_secret_paintings' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_server_announce_mod_is_installed_packet' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'polymorph:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'majruszlibrary:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster_ydm:yearscnetworking' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'starterkit:to_client_receive_kit_data_packet' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '4' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_demons:realmrpg_demons' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geyser:emote' : Version test of '0' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'combatroll:network' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[07Dec2024 03:26:51.440] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'emotecraft:emote' : Version test of '8' from client : ACCEPTED
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[07Dec2024 03:26:51.441] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.442] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[07Dec2024 03:26:51.443] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.443] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.478] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[07Dec2024 03:26:51.478] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.478] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.478] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[07Dec2024 03:26:51.478] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.478] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.486] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 15
+[07Dec2024 03:26:51.504] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[07Dec2024 03:26:51.505] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.505] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.537] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 16
+[07Dec2024 03:26:51.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[07Dec2024 03:26:51.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.583] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[07Dec2024 03:26:51.583] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.583] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.585] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 17
+[07Dec2024 03:26:51.636] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 18
+[07Dec2024 03:26:51.685] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 19
+[07Dec2024 03:26:51.726] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[07Dec2024 03:26:51.726] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.727] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.747] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 20
+[07Dec2024 03:26:51.747] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[07Dec2024 03:26:51.747] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.747] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.787] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 21
+[07Dec2024 03:26:51.790] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[07Dec2024 03:26:51.790] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.790] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.790] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[07Dec2024 03:26:51.790] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.790] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.835] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 22
+[07Dec2024 03:26:51.852] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[07Dec2024 03:26:51.852] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.852] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.885] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 23
+[07Dec2024 03:26:51.935] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 24
+[07Dec2024 03:26:51.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[07Dec2024 03:26:51.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[07Dec2024 03:26:51.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:51.970] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:51.989] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 25
+[07Dec2024 03:26:52.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[07Dec2024 03:26:52.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:52.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:52.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 26
+[07Dec2024 03:26:52.045] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[07Dec2024 03:26:52.045] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:52.045] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:52.086] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 27
+[07Dec2024 03:26:52.086] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[07Dec2024 03:26:52.086] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:26:52.086] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:26:52.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config illagerinvasion-server.toml' to 'fml:handshake' sequence 28
+[07Dec2024 03:26:52.185] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 29
+[07Dec2024 03:26:52.235] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 30
+[07Dec2024 03:26:52.290] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 31
+[07Dec2024 03:26:52.335] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 32
+[07Dec2024 03:26:52.389] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 33
+[07Dec2024 03:26:52.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 34
+[07Dec2024 03:26:55.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:27:10.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:27:12.779] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[07Dec2024 03:27:12.779] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:12.779] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:12.853] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[07Dec2024 03:27:12.853] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:12.853] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:13.206] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[07Dec2024 03:27:13.206] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:13.206] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:13.206] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[07Dec2024 03:27:13.206] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:13.206] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:13.236] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[07Dec2024 03:27:13.236] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:13.236] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:13.246] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[07Dec2024 03:27:13.246] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:13.246] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:13.247] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[07Dec2024 03:27:13.247] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:13.247] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:13.283] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[07Dec2024 03:27:13.283] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[07Dec2024 03:27:13.283] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[07Dec2024 03:27:13.288] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 34
+[07Dec2024 03:27:13.288] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[07Dec2024 03:27:13.290] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[07Dec2024 03:27:13.390] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:53391] logged in with entity id 144783 at (-410.5, 90.5625, 1116.5)
+[07Dec2024 03:27:13.390] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@752061a0 into net.minecraft.network.Connection@502ae6bd
+[07Dec2024 03:27:13.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[07Dec2024 03:27:13.532] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[07Dec2024 03:27:15.555] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 3f2294df-8b7e-46c2-a4b1-0711298c5e35 data: NetData{purpose=CONFIG, threshold=8.0, stopEmoteID=null, emoteData=null, startingAt=0, player=null}
+[07Dec2024 03:27:15.596] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:27:23.992] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:27:23.992] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:27:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] eh? qué pasó?
+[07Dec2024 03:28:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a, escuché "A todos está que nos saca"
+[07Dec2024 03:28:01.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:28:34.852] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:28:53.643] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:29:19.142] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:29:53.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:29:53.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:29:55.936] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:30:01.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> ora
+[07Dec2024 03:30:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> vamos a unir caminos?
+[07Dec2024 03:30:44.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:30:46.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:30:46.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:30:46.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:30:57.541] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:31:04.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Umm pos si quiere
+[07Dec2024 03:31:26.286] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:31:30.577] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:31:34.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> wawa pues ya ni modo
+[07Dec2024 03:31:34.941] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:31:47.147] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:31:47.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:31:47.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:31:48.430] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:31:51.203] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:31:52.955] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:09.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:09.811] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:18.189] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:18.190] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:27.717] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:32.799] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:38.880] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[07Dec2024 03:32:39.747] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:32:45.851] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Dec2024 03:32:45.852] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Dec2024 03:32:45.852] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[07Dec2024 03:32:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 03:32:48.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2902, y=239, z=3801} BlockPos{x=-3279, y=104, z=3517}
+[07Dec2024 03:32:48.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2902, y=239, z=3801} BlockPos{x=-3279, y=104, z=3517}
+[07Dec2024 03:32:48.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2902, y=239, z=3801} BlockPos{x=-3279, y=104, z=3517}
+[07Dec2024 03:32:48.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2902, y=239, z=3801} BlockPos{x=-3279, y=104, z=3517}
+[07Dec2024 03:32:49.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3279, y=101, z=3517} BlockPos{x=-3279, y=101, z=3516}
+[07Dec2024 03:32:49.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3279, y=101, z=3517} BlockPos{x=-3279, y=101, z=3516}
+[07Dec2024 03:33:03.144] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3279, y=68, z=3517} BlockPos{x=-3279, y=67, z=3517}
+[07Dec2024 03:33:03.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3279, y=66, z=3517} BlockPos{x=-3279, y=67, z=3517}
+[07Dec2024 03:33:10.895] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3279, y=49, z=3517} BlockPos{x=-3279, y=48, z=3517}
+[07Dec2024 03:33:12.287] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:33:23.834] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:33:36.175] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:33:46.305] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:34:14.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:34:20.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tas bien?
+[07Dec2024 03:34:23.488] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:34:23.489] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:35:06.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:35:33.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[07Dec2024 03:35:48.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -3294.500000, 116.500000, 3551.500000]
+[07Dec2024 03:35:54.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 03:35:58.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:17.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> si ppor?
+[07Dec2024 03:36:24.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[07Dec2024 03:36:32.242] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:35.261] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[07Dec2024 03:36:35.262] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[07Dec2024 03:36:35.262] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[07Dec2024 03:36:35.262] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[07Dec2024 03:36:35.264] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[07Dec2024 03:36:35.266] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[07Dec2024 03:36:35.267] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Dec2024 03:36:35.267] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Dec2024 03:36:36.422] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:36.423] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 03:36:42.075] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:42.666] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:44.958] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:45.745] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:48.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:36:48.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:36:50.227] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:50.609] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[07Dec2024 03:36:50.609] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[07Dec2024 03:36:50.609] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[07Dec2024 03:36:50.609] [Worker-Main-50/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[07Dec2024 03:36:58.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:36:58.339] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:06.093] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:07.803] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:28.744] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:29.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:29.245] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:30.855] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:34.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:38.454] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:39.903] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:45.740] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:45.741] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:49.889] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:37:53.764] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[07Dec2024 03:37:53.766] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[07Dec2024 03:37:53.766] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[07Dec2024 03:37:53.766] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[07Dec2024 03:37:53.771] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Dec2024 03:37:53.772] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[07Dec2024 03:37:53.772] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[07Dec2024 03:37:53.772] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[07Dec2024 03:37:54.113] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:00.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que es find
+[07Dec2024 03:38:04.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3189, y=76, z=3356} BlockPos{x=-3349, y=64, z=2937}
+[07Dec2024 03:38:04.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3189, y=76, z=3356} BlockPos{x=-3349, y=63, z=2937}
+[07Dec2024 03:38:08.453] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:coal" - querying recipes to get these
+[07Dec2024 03:38:19.141] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:20.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:20.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:23.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:23.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:31.306] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=8, z=2688}
+[07Dec2024 03:38:31.306] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3143, y=8, z=2689}
+[07Dec2024 03:38:31.316] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=8, z=2688}
+[07Dec2024 03:38:31.316] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3143, y=8, z=2689}
+[07Dec2024 03:38:46.397] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:47.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:53.156] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:55.257] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:38:55.257] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:39:07.004] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:39:11.220] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:39:11.220] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:39:12.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:39:28.263] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3148, y=8, z=2682}
+[07Dec2024 03:39:28.263] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3147, y=8, z=2665}
+[07Dec2024 03:39:28.264] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=8, z=2688}
+[07Dec2024 03:39:28.373] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=8, z=2688}
+[07Dec2024 03:39:28.374] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=8, z=2675}
+[07Dec2024 03:39:30.424] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[07Dec2024 03:39:32.845] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:39:39.043] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:39:48.913] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3135, y=21, z=2650}
+[07Dec2024 03:39:48.938] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=8, z=2664}
+[07Dec2024 03:39:48.939] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3135, y=21, z=2650}
+[07Dec2024 03:39:48.940] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3148, y=8, z=2682}
+[07Dec2024 03:39:48.940] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3145, y=8, z=2653}
+[07Dec2024 03:39:48.940] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3147, y=8, z=2665}
+[07Dec2024 03:39:49.202] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=8, z=2664}
+[07Dec2024 03:39:49.203] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3155, y=8, z=2663}
+[07Dec2024 03:39:49.203] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3153, y=8, z=2675}
+[07Dec2024 03:39:54.847] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:40:03.195] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:40:07.848] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:40:35.314] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:40:40.347] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:40:44.466] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:40:47.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pepishikita21 moved wrongly!
+[07Dec2024 03:40:51.546] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:41:02.194] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:41:15.943] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:41:47.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:41:47.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:41:52.453] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:41:52.454] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:41:55.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:41:55.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:41:55.404] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:11.408] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:21.947] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:21.947] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:26.548] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:26.548] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:33.398] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:40.549] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:41.866] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2528, y=-15, z=2717}
+[07Dec2024 03:42:46.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:47.911] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:56.752] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:42:56.753] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:43:06.900] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:43:42.797] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:43:42.797] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:43:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 03:43:48.008] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:43:49.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 was doomed to fall by Husk
+[07Dec2024 03:43:54.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[07Dec2024 03:44:04.277] [Server thread/DEBUG] [twilightforest/]: Player Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545) respawned and received items held in storage
+[07Dec2024 03:44:05.708] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:44:07.896] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:44:07.897] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:44:08.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 03:44:12.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 03:44:13.996] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:44:23.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -2697.500000, 74.500000, 2823.500000]
+[07Dec2024 03:44:31.734] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:44:31.734] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:44:36.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[07Dec2024 03:44:47.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -3347.500000, 9.500000, 2948.500000]
+[07Dec2024 03:45:13.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Pepishikita21'/157934, l='ServerLevel[world]', x=-2695.84, y=91.00, z=2838.88] died: Pepishikita21 was shot by Pepishikita21
+[07Dec2024 03:45:22.881] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:45:38.330] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:45:38.331] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:46:07.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -3351.500000, 66.500000, 2932.500000]
+[07Dec2024 03:46:14.982] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:46:27.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:46:39.363] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3154, y=8, z=2649}
+[07Dec2024 03:46:39.364] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3136, y=21, z=2645}
+[07Dec2024 03:46:39.364] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=8, z=2664}
+[07Dec2024 03:46:39.364] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3135, y=21, z=2650}
+[07Dec2024 03:46:39.365] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3147, y=21, z=2644}
+[07Dec2024 03:46:39.365] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3145, y=8, z=2653}
+[07Dec2024 03:46:39.373] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3154, y=21, z=2637}
+[07Dec2024 03:46:39.374] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3154, y=8, z=2649}
+[07Dec2024 03:46:39.374] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3136, y=21, z=2645}
+[07Dec2024 03:46:39.374] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3146, y=8, z=2664}
+[07Dec2024 03:46:39.374] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3155, y=8, z=2663}
+[07Dec2024 03:46:39.422] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3224, y=8, z=2642}
+[07Dec2024 03:46:39.422] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3214, y=8, z=2643}
+[07Dec2024 03:46:39.438] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=8, z=2619}
+[07Dec2024 03:46:39.446] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=8, z=2619}
+[07Dec2024 03:46:39.447] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3224, y=8, z=2642}
+[07Dec2024 03:46:39.447] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3214, y=8, z=2643}
+[07Dec2024 03:46:40.306] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3136, y=21, z=2645}
+[07Dec2024 03:46:40.306] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3135, y=21, z=2650}
+[07Dec2024 03:46:40.832] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:46:40.833] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:46:42.457] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:42.466] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3154, y=8, z=2649}
+[07Dec2024 03:46:42.466] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3147, y=21, z=2644}
+[07Dec2024 03:46:42.497] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:42.501] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3154, y=21, z=2637}
+[07Dec2024 03:46:42.501] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3154, y=8, z=2649}
+[07Dec2024 03:46:42.652] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3181, y=6, z=2618}
+[07Dec2024 03:46:42.653] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3199, y=8, z=2624}
+[07Dec2024 03:46:42.653] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3183, y=-6, z=2625}
+[07Dec2024 03:46:42.659] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3199, y=8, z=2624}
+[07Dec2024 03:46:42.659] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3183, y=-6, z=2625}
+[07Dec2024 03:46:42.660] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=8, z=2619}
+[07Dec2024 03:46:42.668] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=8, z=2619}
+[07Dec2024 03:46:42.668] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3207, y=6, z=2632}
+[07Dec2024 03:46:42.670] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3224, y=8, z=2642}
+[07Dec2024 03:46:42.670] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3224, y=8, z=2637}
+[07Dec2024 03:46:42.677] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3207, y=6, z=2632}
+[07Dec2024 03:46:42.679] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3224, y=8, z=2642}
+[07Dec2024 03:46:42.679] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3224, y=8, z=2637}
+[07Dec2024 03:46:42.897] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Dele Pelon, descansee
+[07Dec2024 03:46:47.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:46:47.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:46:50.815] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:50.883] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:46:52.387] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:52.504] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:52.567] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:52.583] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3168, y=8, z=2608}
+[07Dec2024 03:46:52.829] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3207, y=6, z=2632}
+[07Dec2024 03:46:52.859] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3181, y=6, z=2618}
+[07Dec2024 03:46:52.859] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3199, y=8, z=2624}
+[07Dec2024 03:46:52.860] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3193, y=8, z=2619}
+[07Dec2024 03:46:52.867] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3199, y=8, z=2624}
+[07Dec2024 03:46:52.867] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=8, z=2619}
+[07Dec2024 03:46:52.868] [Worker-Main-51/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3193, y=8, z=2619}
+[07Dec2024 03:46:52.877] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3206, y=8, z=2619}
+[07Dec2024 03:46:52.879] [Worker-Main-187/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-3207, y=6, z=2632}
+[07Dec2024 03:46:54.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[07Dec2024 03:46:54.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[07Dec2024 03:46:56.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> bai
+[07Dec2024 03:47:05.523] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:47:19.328] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:47:37.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[07Dec2024 03:47:38.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:47:44.641] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:47:49.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:48:08.437] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:48:12.441] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:48:20.290] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2380, y=20, z=2839}
+[07Dec2024 03:48:24.086] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:48:35.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:48:43.179] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[07Dec2024 03:48:43.180] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[07Dec2024 03:48:43.180] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[07Dec2024 03:48:43.180] [Worker-Main-187/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[07Dec2024 03:48:49.070] [Worker-Main-51/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2305, y=-33, z=2783}
+[07Dec2024 03:48:49.093] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2306, y=-33, z=2786}
+[07Dec2024 03:49:40.496] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:49:40.497] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:49:43.294] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:49:51.387] [Worker-Main-50/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2352, y=103, z=2976}
+[07Dec2024 03:49:51.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:49:51.895] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:49:57.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:00.391] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:00.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:00.988] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:06.087] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:08.187] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:10.635] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:10.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:14.894] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:28.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:50:32.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Gone Bananas!]
+[07Dec2024 03:50:44.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:51:22.790] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
