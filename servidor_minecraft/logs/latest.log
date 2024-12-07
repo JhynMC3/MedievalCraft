@@ -3083,3 +3083,9 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 05:17:19.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:41753] logged in with entity id 2976 at (-574.4507312678717, 200.0, 1332.3253560077817)
 [07Dec2024 05:17:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
 [07Dec2024 05:17:19.428] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[07Dec2024 05:23:46.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Poseidon, God of the Seas]
+[07Dec2024 05:29:35.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -3310.500000, 81.500000, 5872.500000]
+[07Dec2024 05:29:43.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported 3 entities to JhynMC]
+[07Dec2024 05:37:27.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[07Dec2024 05:39:30.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[07Dec2024 05:39:49.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
