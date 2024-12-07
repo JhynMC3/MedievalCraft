@@ -81,6 +81,7 @@
       "redwood_forest": "2024-11-21 04:26:12 +0000",
       "dune_beach": "2024-11-21 04:07:21 +0000",
       "dead_forest": "2024-11-15 03:28:38 +0000",
+      "volcano": "2024-12-07 01:49:17 +0000",
       "pasture": "2024-11-18 03:52:39 +0000",
       "rocky_rainforest": "2024-11-28 04:55:51 +0000",
       "lavender_field": "2024-11-21 04:25:06 +0000",
@@ -116,6 +117,7 @@
       "minecraft:savanna_plateau": "2024-11-20 00:13:50 +0000",
       "minecraft:beach": "2024-11-16 02:53:07 +0000",
       "minecraft:dark_forest": "2024-11-21 04:57:33 +0000",
+      "minecraft:stony_peaks": "2024-12-07 01:49:12 +0000",
       "minecraft:river": "2024-11-15 03:28:32 +0000",
       "minecraft:lukewarm_ocean": "2024-11-17 05:34:18 +0000",
       "minecraft:snowy_plains": "2024-11-15 07:57:47 +0000",
@@ -1012,12 +1014,6 @@
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2024-12-07 01:03:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/spyglass_at_parrot": {
     "criteria": {
       "spyglass_at_parrot": "2024-12-07 00:24:37 +0000"
@@ -1027,6 +1023,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-07 00:45:42 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-07 01:03:13 +0000"
     },
     "done": true
   },
