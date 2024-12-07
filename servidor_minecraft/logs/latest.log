@@ -811,3 +811,13 @@
 [07Dec2024 04:42:17.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Timed out
 [07Dec2024 04:42:17.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
 [07Dec2024 04:42:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[07Dec2024 04:42:55.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported junior_mtz_ to JhynMC]
+[07Dec2024 04:43:56.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e.e
+[07Dec2024 04:46:23.807] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[07Dec2024 04:46:45.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:39747] logged in with entity id 187657 at (-242.50475716395096, 80.0, 1015.5701068355513)
+[07Dec2024 04:46:45.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[07Dec2024 04:46:45.799] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[07Dec2024 04:47:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to NoSoyYoshiGordo]
+[07Dec2024 04:47:19.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['NoSoyYoshiGordo'/187857, l='ServerLevel[world]', x=-237.49, y=80.00, z=1005.76] died: NoSoyYoshiGordo was slain by JhynMC
+[07Dec2024 04:52:07.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Spooky Scary Army]
+[07Dec2024 04:53:13.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Spooky Scary Skeleton]
