@@ -782,3 +782,19 @@
 [07Dec2024 04:21:29.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> https://music.youtube.com/watch?v=d2SDu5DxIOo&list=LRYRtLwBa4y5JCszFsPxSgGnoml6UIcB5_I2B
 [07Dec2024 04:21:35.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
 [07Dec2024 04:22:14.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XD
+[07Dec2024 04:22:44.732] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[07Dec2024 04:23:00.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:47609] logged in with entity id 173782 at (-349.42375334905734, 86.0, 1064.1694258757134)
+[07Dec2024 04:23:00.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[07Dec2024 04:23:00.432] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[07Dec2024 04:25:33.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -3780.000000, 77.000000, 5118.000000]
+[07Dec2024 04:29:14.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to -3545.000000, 69.000000, 5784.000000]
+[07Dec2024 04:29:26.645] [Worker-Main-266/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[07Dec2024 04:29:26.645] [Worker-Main-266/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Dec2024 04:29:26.646] [Worker-Main-266/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Dec2024 04:29:26.646] [Worker-Main-266/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[07Dec2024 04:29:30.961] [Worker-Main-275/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[07Dec2024 04:29:30.962] [Worker-Main-275/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Dec2024 04:29:30.962] [Worker-Main-275/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[07Dec2024 04:29:30.963] [Worker-Main-275/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[07Dec2024 04:30:21.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
+[07Dec2024 04:31:38.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [My Name is Nobody]
