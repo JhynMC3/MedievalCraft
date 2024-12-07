@@ -825,3 +825,23 @@
 [07Dec2024 05:01:43.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Splintering II]
 [07Dec2024 05:01:55.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [A Flaming Sword]
 [07Dec2024 05:02:39.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [A Flaming Sword]
+[07Dec2024 05:04:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported 3 entities to JhynMC]
+[07Dec2024 05:07:30.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ lost connection: Disconnected
+[07Dec2024 05:07:30.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ left the game
+[07Dec2024 05:07:32.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[07Dec2024 05:07:32.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[07Dec2024 05:07:34.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Disconnected
+[07Dec2024 05:07:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[07Dec2024 05:07:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Dec2024 05:07:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 05:07:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 05:07:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 05:07:41.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 05:07:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 05:07:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Dec2024 05:07:41.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

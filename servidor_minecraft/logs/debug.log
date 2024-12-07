@@ -15195,3 +15195,30 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 05:02:39.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [A Flaming Sword]
 [07Dec2024 05:03:11.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [07Dec2024 05:03:11.633] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 05:04:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported 3 entities to JhynMC]
+[07Dec2024 05:06:47.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 05:06:47.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 05:07:30.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ lost connection: Disconnected
+[07Dec2024 05:07:30.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ left the game
+[07Dec2024 05:07:32.520] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[07Dec2024 05:07:32.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[07Dec2024 05:07:34.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Disconnected
+[07Dec2024 05:07:34.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[07Dec2024 05:07:41.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Dec2024 05:07:41.413] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[07Dec2024 05:07:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Dec2024 05:07:41.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Dec2024 05:07:41.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Dec2024 05:07:41.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Dec2024 05:07:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Dec2024 05:07:41.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07Dec2024 05:07:41.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Dec2024 05:07:41.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 05:07:41.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Dec2024 05:07:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Dec2024 05:07:41.846] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[07Dec2024 05:07:41.846] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
