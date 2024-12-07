@@ -172,3 +172,25 @@
 [07Dec2024 00:47:07.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
 [07Dec2024 00:47:21.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
 [07Dec2024 00:47:23.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -1324.500000, -7.500000, 1725.500000]
+[07Dec2024 00:48:21.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> me quemooo
+[07Dec2024 00:48:37.380] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gondar_80'/46629, l='ServerLevel[world]', x=-1342.04, y=-11.46, z=1749.37] died: Gondar_80 was incinerated by Fire Dragon
+[07Dec2024 00:50:42.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> me quedó la cola quemada, pero todo gud
+[07Dec2024 00:50:46.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -1329.500000, 64.500000, 1734.500000]
+[07Dec2024 00:50:57.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Mine Turtle!]
+[07Dec2024 00:51:25.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Nestor'/48293, l='ServerLevel[world]', x=-1250.95, y=64.00, z=1943.56] died: Nestor burned to death
+[07Dec2024 00:51:29.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 00:51:29.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[07Dec2024 00:52:25.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1335, y=-8, z=1753} BlockPos{x=-1445, y=67, z=1816}
+[07Dec2024 00:52:25.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1335, y=-8, z=1753} BlockPos{x=-1445, y=67, z=1816}
+[07Dec2024 00:52:26.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1335, y=-8, z=1753} BlockPos{x=-1445, y=66, z=1817}
+[07Dec2024 00:52:34.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> OJITOOO
+[07Dec2024 00:52:57.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Facilicito ya a nada de Diamanco
+[07Dec2024 00:54:38.113] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-991, y=37, z=-183}
+[07Dec2024 00:54:38.113] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-991, y=37, z=-182}
+[07Dec2024 00:54:38.114] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-991, y=38, z=-182}
+[07Dec2024 00:54:38.114] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-991, y=37, z=-181}
+[07Dec2024 00:55:09.521] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1000, y=-52, z=-251}
+[07Dec2024 00:56:55.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[07Dec2024 00:57:13.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1740, y=58, z=1894} BlockPos{x=-1740, y=54, z=1894}
+[07Dec2024 00:57:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> XDDD
+[07Dec2024 00:57:30.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1740, y=38, z=1894} BlockPos{x=-1740, y=37, z=1894}
