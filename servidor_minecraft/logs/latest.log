@@ -3109,3 +3109,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 06:53:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Creative Mode]
 [07Dec2024 06:53:18.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Survival Mode]
 [07Dec2024 06:55:54.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Leilani'/49434, l='ServerLevel[world]', x=-381.39, y=84.83, z=1045.64] died: Leilani tried to swim in lava
+[07Dec2024 07:08:33.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Spooky Scary Skeleton]
