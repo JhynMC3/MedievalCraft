@@ -13572,3 +13572,43 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 03:09:11.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Se abre con las vagonetas
 [07Dec2024 03:09:38.274] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [07Dec2024 03:10:09.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jesse'/138157, l='ServerLevel[world]', x=-2817.30, y=250.76, z=4025.09] died: Jesse tried to swim in lava
+[07Dec2024 03:11:03.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[07Dec2024 03:11:21.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero lo q uité
+[07Dec2024 03:11:31.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Pero lo q uité
+[07Dec2024 03:11:41.877] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:11:42.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
+[07Dec2024 03:11:47.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:11:47.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:11:49.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[07Dec2024 03:11:50.596] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2697, y=39, z=3767}
+[07Dec2024 03:12:43.048] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:12:48.942] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[07Dec2024 03:12:50.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> yr
+[07Dec2024 03:12:53.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC lost connection: Disconnected
+[07Dec2024 03:12:53.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC left the game
+[07Dec2024 03:12:56.844] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2870, y=-16, z=3889} BlockPos{x=-2872, y=-9, z=3871}
+[07Dec2024 03:12:57.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2872, y=-9, z=3870} BlockPos{x=-2872, y=-8, z=3870}
+[07Dec2024 03:13:09.895] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[07Dec2024 03:13:22.339] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[07Dec2024 03:13:25.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:13:25.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:13:25.490] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:13:50.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2854, y=3, z=3848} BlockPos{x=-2854, y=2, z=3848}
+[07Dec2024 03:13:50.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2854, y=3, z=3848} BlockPos{x=-2854, y=2, z=3847}
+[07Dec2024 03:13:57.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] e.e
+[07Dec2024 03:14:07.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2854, y=9, z=3842} BlockPos{x=-2854, y=9, z=3840}
+[07Dec2024 03:14:48.043] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:14:48.044] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:16:09.239] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:16:47.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 03:16:47.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 03:16:57.337] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:17:13.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:17:18.543] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:17:48.588] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:18:07.739] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:18:50.444] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:19:24.587] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:20:02.293] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 03:21:07.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2844, y=19, z=3841} BlockPos{x=-2843, y=19, z=3841}
+[07Dec2024 03:21:07.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2844, y=19, z=3841} BlockPos{x=-2842, y=19, z=3841}
