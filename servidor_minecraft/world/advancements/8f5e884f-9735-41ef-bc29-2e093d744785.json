@@ -273,6 +273,7 @@
       "minecraft:vindicator": "2024-11-30 03:03:47 +0000",
       "minecraft:spider": "2024-11-16 03:25:11 +0000",
       "minecraft:creeper": "2024-11-16 04:05:55 +0000",
+      "minecraft:wither": "2024-12-07 02:39:26 +0000",
       "minecraft:slime": "2024-11-20 04:30:19 +0000",
       "minecraft:evoker": "2024-11-30 03:08:03 +0000",
       "quark:forgotten": "2024-11-16 04:04:45 +0000",
@@ -1011,6 +1012,18 @@
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed": "2024-12-07 01:55:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2024-12-07 02:42:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-07 02:38:05 +0000"
     },
     "done": true
   },
