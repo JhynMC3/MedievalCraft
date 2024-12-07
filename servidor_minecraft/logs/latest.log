@@ -3104,3 +3104,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 06:33:05.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] o.o
 [07Dec2024 06:41:09.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Supr
 [07Dec2024 06:42:11.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Limit Breaker]
+[07Dec2024 06:52:11.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Creative Mode]
+[07Dec2024 06:52:18.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Survival Mode]
+[07Dec2024 06:53:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Creative Mode]
+[07Dec2024 06:53:18.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Set own game mode to Survival Mode]
+[07Dec2024 06:55:54.603] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Leilani'/49434, l='ServerLevel[world]', x=-381.39, y=84.83, z=1045.64] died: Leilani tried to swim in lava
