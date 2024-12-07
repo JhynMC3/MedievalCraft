@@ -79,10 +79,12 @@
       "lavender_field": "2024-11-17 05:53:16 +0000",
       "fir_clearing": "2024-11-17 06:57:14 +0000",
       "pumpkin_patch": "2024-11-25 03:31:11 +0000",
+      "prairie": "2024-12-07 00:18:49 +0000",
       "snowy_fir_clearing": "2024-11-25 03:19:17 +0000",
       "snowy_coniferous_forest": "2024-11-30 02:38:29 +0000",
       "tundra": "2024-11-25 03:20:48 +0000",
       "glowing_grotto": "2024-11-17 05:34:51 +0000",
+      "rainforest": "2024-12-07 00:21:30 +0000",
       "crag": "2024-11-17 06:41:51 +0000"
     },
     "done": false
@@ -800,6 +802,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2024-12-06 06:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2024-12-07 00:24:47 +0000"
     },
     "done": true
   },

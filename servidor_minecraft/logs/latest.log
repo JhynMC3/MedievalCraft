@@ -42,3 +42,44 @@
 [07Dec2024 00:15:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pero no estoy segura
 [07Dec2024 00:16:00.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
 [07Dec2024 00:16:08.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> 14
+[07Dec2024 00:17:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> pos no habia nada
+[07Dec2024 00:19:23.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-444, y=156, z=2044} BlockPos{x=-602, y=126, z=2141}
+[07Dec2024 00:19:42.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 00:19:42.226] [Worker-Main-52/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-617, y=-37, z=2464}
+[07Dec2024 00:19:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[07Dec2024 00:19:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Say cómo les explico...<--[HERE]
+[07Dec2024 00:20:02.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved too quickly! -8.833624660751411,-0.006695440113546169,5.654417033793379
+[07Dec2024 00:20:03.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] cómo les explico...
+[07Dec2024 00:20:03.913] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-808, y=-15, z=2504}
+[07Dec2024 00:20:12.608] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-681, y=-11, z=2539}
+[07Dec2024 00:20:12.609] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-680, y=-11, z=2539}
+[07Dec2024 00:20:20.865] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-954, y=6, z=2115}
+[07Dec2024 00:20:32.268] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-923, y=30, z=2058}
+[07Dec2024 00:20:42.327] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-12, y=-58, z=14}
+[07Dec2024 00:20:47.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me fui a buscar algo a la habitación y me acosté un ratito va, y caí en un sueño profundo
+[07Dec2024 00:20:56.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> si fui
+[07Dec2024 00:21:17.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] me fui un ratote no?
+[07Dec2024 00:21:30.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 00:21:43.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a pos no fue tanto como sentí
+[07Dec2024 00:21:50.489] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player JhynMC is 3f2294df-8b7e-46c2-a4b1-0711298c5e35
+[07Dec2024 00:21:52.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> no me la contes
+[07Dec2024 00:22:09.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JhynMC[/127.242.210.13:49467] logged in with entity id 31570 at (-411.4759222872882, 95.0, 1115.51011753158)
+[07Dec2024 00:22:09.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC joined the game
+[07Dec2024 00:22:09.698] [Server thread/INFO] [Jade/]: Syncing config to JhynMC (3f2294df-8b7e-46c2-a4b1-0711298c5e35)
+[07Dec2024 00:23:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Jennifer Dumped Me]
+[07Dec2024 00:23:27.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ocupan ayudan?
+[07Dec2024 00:23:29.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> si quiere venir jhyncito
+[07Dec2024 00:23:32.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> vengashe
+[07Dec2024 00:23:39.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> IGHHH FOLIIAAHT
+[07Dec2024 00:24:11.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[07Dec2024 00:24:14.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yt
+[07Dec2024 00:24:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Is It a Bird?]
+[07Dec2024 00:24:47.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Is It a Bird?]
+[07Dec2024 00:24:55.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[07Dec2024 00:25:33.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Uy ve esto de va a quemar
+[07Dec2024 00:25:36.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to -382.500000, 84.500000, 1162.500000]
+[07Dec2024 00:25:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Morado, negro azul
+[07Dec2024 00:25:47.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Cuando salga el cerbero
+[07Dec2024 00:25:53.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> da igual xD
+[07Dec2024 00:26:00.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to JhynMC]
+[07Dec2024 00:26:54.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ya es la 5?
