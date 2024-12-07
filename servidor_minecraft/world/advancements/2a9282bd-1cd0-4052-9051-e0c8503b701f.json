@@ -15,6 +15,7 @@
       "wetland": "2024-11-17 05:21:15 +0000",
       "cold_desert": "2024-11-17 05:18:17 +0000",
       "maple_woods": "2024-11-17 05:26:48 +0000",
+      "bog": "2024-12-07 01:05:15 +0000",
       "coniferous_forest": "2024-11-17 06:43:28 +0000",
       "spider_nest": "2024-11-18 05:07:31 +0000",
       "pasture": "2024-11-18 04:40:42 +0000",
@@ -75,6 +76,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2024-11-17 05:30:27 +0000",
+      "potato": "2024-12-07 00:56:38 +0000",
+      "mutton": "2024-12-07 00:56:50 +0000",
       "bread": "2024-11-17 05:21:08 +0000"
     },
     "done": false
@@ -309,6 +312,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-11-18 05:17:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-07 01:01:57 +0000"
     },
     "done": true
   },

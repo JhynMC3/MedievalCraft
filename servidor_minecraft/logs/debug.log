@@ -11979,3 +11979,78 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 00:57:37.550] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [07Dec2024 00:57:47.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [07Dec2024 00:57:58.486] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:58:10.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> se puede tp?
+[07Dec2024 00:58:16.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 00:58:26.281] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:58:26.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Sneak 100]
+[07Dec2024 00:58:32.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:58:32.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:58:35.835] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:59:24.234] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:59:24.235] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:59:24.235] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:00:27.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yooshi tamos en disc
+[07Dec2024 01:00:51.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Si quire puede venirs xD
+[07Dec2024 01:00:57.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <NoSoyYoshiGordo> solo termino una llamada y voy
+[07Dec2024 01:01:01.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> oki
+[07Dec2024 01:01:03.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> jhyncito
+[07Dec2024 01:01:06.088] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:01:12.685] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:01:14.882] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:01:23.233] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:01:30.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> x2 xD
+[07Dec2024 01:01:32.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:01:32.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 01:01:33.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[07Dec2024 01:01:35.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[07Dec2024 01:01:57.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [Sweet Dreams]
+[07Dec2024 01:02:12.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Ancient Civilization]
+[07Dec2024 01:02:14.033] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:diamond" - querying recipes to get these
+[07Dec2024 01:02:18.586] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:02:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has completed the challenge [It Spreads]
+[07Dec2024 01:02:33.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Master of Silence]
+[07Dec2024 01:02:41.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a
+[07Dec2024 01:02:57.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:02:58.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:03:02.284] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:03:09.185] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:03:12.046] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:03:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Ancient Civilization]
+[07Dec2024 01:03:33.333] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:03:48.598] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:03:54.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=-11, z=1899} BlockPos{x=-1743, y=-10, z=1899}
+[07Dec2024 01:03:55.584] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:04:21.993] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:04:25.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> wee
+[07Dec2024 01:04:30.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> vrg
+[07Dec2024 01:04:53.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PriestEntity['Regina'/56478, l='ServerLevel[world]', x=-1347.14, y=74.00, z=342.90] died: Regina was slain by Hydra
+[07Dec2024 01:05:04.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> encontre uno
+[07Dec2024 01:05:12.243] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:05:21.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> encontré otro
+[07Dec2024 01:05:33.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[07Dec2024 01:05:34.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Gondar_80]
+[07Dec2024 01:05:49.788] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:06:15.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> fi
+[07Dec2024 01:06:20.990] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:06:24.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 01:06:28.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to Pepishikita21]
+[07Dec2024 01:06:32.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:06:32.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 01:06:33.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[07Dec2024 01:06:40.385] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:07:01.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=-11, z=1902} BlockPos{x=-1740, y=-10, z=1902}
+[07Dec2024 01:07:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 01:07:27.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=-16, z=1897} BlockPos{x=-1741, y=-17, z=1898}
+[07Dec2024 01:07:27.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=-16, z=1897} BlockPos{x=-1740, y=-17, z=1898}
+[07Dec2024 01:07:28.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1738, y=-17, z=1899} BlockPos{x=-1739, y=-16, z=1899}
+[07Dec2024 01:07:31.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1741, y=-17, z=1897} BlockPos{x=-1741, y=-16, z=1900}
+[07Dec2024 01:07:31.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1740, y=-16, z=1901} BlockPos{x=-1740, y=-15, z=1900}
+[07Dec2024 01:07:31.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1740, y=-16, z=1901} BlockPos{x=-1741, y=-15, z=1900}
+[07Dec2024 01:07:31.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=-17, z=1900} BlockPos{x=-1741, y=-17, z=1900}
+[07Dec2024 01:07:31.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=-17, z=1900} BlockPos{x=-1740, y=-17, z=1900}
+[07Dec2024 01:07:32.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=-16, z=1900} BlockPos{x=-1742, y=-15, z=1899}
+[07Dec2024 01:07:33.837] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1742, y=-17, z=1900} BlockPos{x=-1741, y=-18, z=1899}
+[07Dec2024 01:07:41.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to JhynMC]
+[07Dec2024 01:07:56.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:07:56.787] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:08:14.492] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot

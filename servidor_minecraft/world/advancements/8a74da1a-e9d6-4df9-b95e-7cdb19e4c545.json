@@ -805,15 +805,39 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-07 00:58:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2024-12-07 01:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/spyglass_at_parrot": {
     "criteria": {
       "spyglass_at_parrot": "2024-12-07 00:24:47 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-07 01:02:32 +0000"
+    },
+    "done": true
+  },
   "quark:mine_toretoise": {
     "criteria": {
       "mine_toretoise": "2024-12-07 00:50:57 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-07 01:02:33 +0000"
     },
     "done": true
   },
