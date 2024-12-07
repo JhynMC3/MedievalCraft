@@ -356,5 +356,35 @@
     },
     "done": true
   },
+  "majruszsdifficulty:undead_army_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2024-12-07 04:57:57 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2024-12-07 04:52:07 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/tattered_armor": {
+    "criteria": {
+      "has_cloth": "2024-12-07 04:58:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-07 04:53:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-07 05:01:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
