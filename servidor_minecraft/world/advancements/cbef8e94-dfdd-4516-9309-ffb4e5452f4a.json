@@ -636,12 +636,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2024-12-07 05:02:39 +0000"
-    },
-    "done": true
-  },
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2024-12-07 04:19:20 +0000"
@@ -651,6 +645,12 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-07 04:31:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2024-12-07 05:02:39 +0000"
     },
     "done": true
   },
