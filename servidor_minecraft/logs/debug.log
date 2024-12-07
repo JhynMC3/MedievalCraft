@@ -11051,3 +11051,43 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [06Dec2024 23:56:32.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Dec2024 23:56:32.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> matalo
 [06Dec2024 23:56:41.427] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[06Dec2024 23:57:45.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 moved wrongly!
+[06Dec2024 23:57:49.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:58:15.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:58:15.288] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:58:36.134] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[06Dec2024 23:58:43.479] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[06Dec2024 23:58:48.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :(
+[06Dec2024 23:58:50.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Shape of My Heart]
+[06Dec2024 23:59:33.234] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:00:26.484] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:01:32.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 00:01:32.411] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 00:01:40.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -685.500000, 80.500000, 1869.500000]
+[07Dec2024 00:03:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -685.500000, 80.500000, 1869.500000]
+[07Dec2024 00:03:29.037] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:03:33.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PriestEntity['Valentine'/18432, l='ServerLevel[world]', x=-665.25, y=68.36, z=1850.79] died: Valentine tried to swim in lava
+[07Dec2024 00:03:41.180] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:04:10.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=-4, z=1865} BlockPos{x=-617, y=120, z=1989}
+[07Dec2024 00:04:10.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=-4, z=1865} BlockPos{x=-617, y=119, z=1989}
+[07Dec2024 00:04:23.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-617, y=88, z=1989} BlockPos{x=-617, y=87, z=1989}
+[07Dec2024 00:04:23.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-617, y=86, z=1989} BlockPos{x=-617, y=87, z=1989}
+[07Dec2024 00:04:47.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-617, y=54, z=1989} BlockPos{x=-617, y=42, z=1989}
+[07Dec2024 00:05:02.786] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:05:03.934] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:05:53.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya, volvi
+[07Dec2024 00:05:54.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 00:05:57.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> tas bien?
+[07Dec2024 00:06:00.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Teleported Pepishikita21 to Gondar_80]
+[07Dec2024 00:06:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 00:06:18.480] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:06:20.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 burned to death
+[07Dec2024 00:06:22.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 was slain by Fire Dragon
+[07Dec2024 00:06:24.306] [Server thread/DEBUG] [twilightforest/]: Player Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785) respawned and received items held in storage
+[07Dec2024 00:06:28.581] [Server thread/DEBUG] [twilightforest/]: Player Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545) respawned and received items held in storage
+[07Dec2024 00:06:29.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to -624.500000, 8.500000, 1986.500000]
+[07Dec2024 00:06:30.722] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:06:30.722] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:06:31.102] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 00:06:32.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 00:06:32.461] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -981,5 +981,11 @@
     },
     "done": true
   },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-06 23:58:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
