@@ -501,3 +501,41 @@
 [07Dec2024 02:24:05.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
 [07Dec2024 02:24:07.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
 [07Dec2024 02:26:14.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Creative Mode]
+[07Dec2024 02:30:26.037] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[07Dec2024 02:30:35.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.133.221.166:42893] logged in with entity id 128254 at (-1761.7233141313711, -27.0, 1996.4953842788952)
+[07Dec2024 02:30:35.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[07Dec2024 02:30:35.893] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[07Dec2024 02:31:23.480] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Pepishikita21 is 8a74da1a-e9d6-4df9-b95e-7cdb19e4c545
+[07Dec2024 02:31:32.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pepishikita21[/127.128.229.249:48325] logged in with entity id 128348 at (-1761.230952391946, -27.0, 1993.363853767659)
+[07Dec2024 02:31:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 joined the game
+[07Dec2024 02:31:32.963] [Server thread/INFO] [Jade/]: Syncing config to Pepishikita21 (8a74da1a-e9d6-4df9-b95e-7cdb19e4c545)
+[07Dec2024 02:32:05.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oa mocito
+[07Dec2024 02:32:07.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ño
+[07Dec2024 02:32:17.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Nop
+[07Dec2024 02:32:31.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Solo se activa con la estrella
+[07Dec2024 02:32:32.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gondar_80 lost connection: Disconnected
+[07Dec2024 02:32:32.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 left the game
+[07Dec2024 02:32:34.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 02:32:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pepishikita21: Set own game mode to Survival Mode]
+[07Dec2024 02:35:06.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Set own game mode to Survival Mode]
+[07Dec2024 02:35:17.245] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Gondar_80 is 8f5e884f-9735-41ef-bc29-2e093d744785
+[07Dec2024 02:35:31.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gondar_80[/127.133.221.166:60547] logged in with entity id 128985 at (-1758.9703757227007, -25.0, 1959.2469063445615)
+[07Dec2024 02:35:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 joined the game
+[07Dec2024 02:35:31.628] [Server thread/INFO] [Jade/]: Syncing config to Gondar_80 (8f5e884f-9735-41ef-bc29-2e093d744785)
+[07Dec2024 02:35:49.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ay we si me mamé xD
+[07Dec2024 02:36:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Yoshi se fue hace 3 horas xD
+[07Dec2024 02:36:30.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ahi esta mi cabeza
+[07Dec2024 02:36:32.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Nop
+[07Dec2024 02:36:32.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> nonono
+[07Dec2024 02:36:35.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> solo los 3
+[07Dec2024 02:36:48.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Qué no
+[07Dec2024 02:36:50.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Esta dormido
+[07Dec2024 02:36:53.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Set own game mode to Survival Mode]
+[07Dec2024 02:37:38.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya la tire
+[07Dec2024 02:37:44.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> a pos sí xD
+[07Dec2024 02:38:03.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> un poco más
+[07Dec2024 02:38:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JhynMC has made the advancement [Withering Heights]
+[07Dec2024 02:38:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Withering Heights]
+[07Dec2024 02:38:05.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pepishikita21 has made the advancement [Withering Heights]
+[07Dec2024 02:38:19.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> JAJAJAJAJ
+[07Dec2024 02:38:20.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> JAJAJJAJAJA

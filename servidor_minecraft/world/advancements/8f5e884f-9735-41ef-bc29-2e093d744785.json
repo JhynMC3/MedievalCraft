@@ -984,21 +984,9 @@
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
+  "quark:get_diamond_heart": {
     "criteria": {
-      "factory": "2024-12-07 01:13:06 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed": "2024-12-07 01:55:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2024-12-07 01:32:25 +0000"
+      "get_diamond_heart": "2024-12-06 23:58:50 +0000"
     },
     "done": true
   },
@@ -1008,9 +996,21 @@
     },
     "done": true
   },
-  "quark:get_diamond_heart": {
+  "cataclysm:find_ancient_factory": {
     "criteria": {
-      "get_diamond_heart": "2024-12-06 23:58:50 +0000"
+      "factory": "2024-12-07 01:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-07 01:32:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2024-12-07 01:55:19 +0000"
     },
     "done": true
   },
