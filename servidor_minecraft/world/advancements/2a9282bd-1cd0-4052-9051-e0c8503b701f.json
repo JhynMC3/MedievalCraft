@@ -316,6 +316,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-07 01:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-07 01:01:57 +0000"
@@ -331,6 +337,12 @@
   "majruszsdifficulty:game_stage_expert": {
     "criteria": {
       "is_triggered": "2024-12-07 00:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-07 01:20:11 +0000"
     },
     "done": true
   },
