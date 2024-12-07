@@ -857,6 +857,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-07 03:50:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tame_capuchin": {
+    "criteria": {
+      "tame": "2024-12-07 03:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2024-12-07 02:38:05 +0000"
