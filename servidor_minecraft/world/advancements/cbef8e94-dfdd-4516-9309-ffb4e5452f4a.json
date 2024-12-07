@@ -616,12 +616,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2024-12-01 23:43:54 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-12-01 22:47:09 +0000"
@@ -631,6 +625,18 @@
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2024-12-01 22:48:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2024-12-01 23:43:54 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2024-12-07 04:19:20 +0000"
     },
     "done": true
   },
