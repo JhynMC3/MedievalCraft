@@ -12207,3 +12207,68 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [07Dec2024 01:27:28.476] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [07Dec2024 01:29:04.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
 [07Dec2024 01:29:04.528] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:29:19.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> Ño
+[07Dec2024 01:29:20.080] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:29:28.628] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:29:33.280] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:29:33.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a la madre
+[07Dec2024 01:30:11.927] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:redstone" - querying recipes to get these
+[07Dec2024 01:30:11.975] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:iron_ingot" - querying recipes to get these
+[07Dec2024 01:30:15.526] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:30:15.527] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:30:34.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:30:39.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> pos entra
+[07Dec2024 01:30:39.760] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.761] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.761] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.761] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.761] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.761] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.761] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.762] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.762] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.762] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.762] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.762] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.762] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:39.762] [Server thread/INFO] [Quad/]: [Quad] tag: 'quad:nether_portal/formed' has the 1 block of: 'Block{minecraft:obsidian}'
+[07Dec2024 01:30:42.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JhynMC moved too quickly! 4.475530923761653,0.0,-9.162866122155037
+[07Dec2024 01:30:42.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2572ms or 51 ticks behind
+[07Dec2024 01:30:42.282] [Worker-Main-51/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -313 0 192
+[07Dec2024 01:30:42.326] [Worker-Main-51/INFO] [com.aqutheseal.celestisynth.Celestisynth/]: CRATER GENERATED AT: -309 0 238
+[07Dec2024 01:30:50.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1737, y=-18, z=1920} BlockPos{x=-1738, y=-17, z=1920}
+[07Dec2024 01:31:02.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> que hicieron?
+[07Dec2024 01:31:34.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:31:34.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 01:31:43.773] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:emerald" - querying recipes to get these
+[07Dec2024 01:31:49.173] [Server thread/DEBUG] [sophisticatedcore/]: Compacting shapes not found in cache for "minecraft:gold_ingot" - querying recipes to get these
+[07Dec2024 01:31:58.027] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:32:00.677] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:32:03.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Qué bonito
+[07Dec2024 01:32:21.635] [Server thread/DEBUG] [mixin/]: Mixing compat.PistonReactQuarkMixin from moonlight-common.mixins.json into net.mehvahdjukaar.moonlight.api.block.IPistonMotionReact
+[07Dec2024 01:32:25.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gondar_80 has made the advancement [Spooky Scary Skeleton]
+[07Dec2024 01:32:28.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> yr
+[07Dec2024 01:32:41.327] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:32:55.929] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:33:10.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> UYYY
+[07Dec2024 01:33:56.179] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:34:03.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> ya
+[07Dec2024 01:34:09.578] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:34:31.682] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:35:10.077] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:35:23.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> PEPII LINTERNAS DE RANAA
+[07Dec2024 01:35:46.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> a
+[07Dec2024 01:35:46.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gondar_80: Teleported Gondar_80 to Pepishikita21]
+[07Dec2024 01:35:47.031] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:36:09.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> veo a uno
+[07Dec2024 01:36:34.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Dec2024 01:36:34.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Dec2024 01:36:48.126] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:36:48.127] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:37:34.029] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:37:34.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:37:34.030] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:37:50.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Pepishikita21> oa wuapo
+[07Dec2024 01:38:19.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[07Dec2024 01:38:35.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1772, y=-19, z=1991} BlockPos{x=-1745, y=-24, z=2009}
+[07Dec2024 01:39:29.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JhynMC> Ola Gerardo

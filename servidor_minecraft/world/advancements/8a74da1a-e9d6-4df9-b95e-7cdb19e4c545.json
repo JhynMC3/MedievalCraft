@@ -784,6 +784,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-07 01:30:42 +0000",
       "minecraft:warped_forest": "2024-12-06 06:16:48 +0000"
     },
     "done": false
