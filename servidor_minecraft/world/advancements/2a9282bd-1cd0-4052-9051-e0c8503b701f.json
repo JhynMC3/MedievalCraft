@@ -76,6 +76,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-07 04:35:50 +0000",
       "porkchop": "2024-12-07 04:27:47 +0000",
       "apple": "2024-11-17 05:30:27 +0000",
       "potato": "2024-12-07 00:56:38 +0000",
@@ -344,6 +345,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2024-12-07 01:20:13 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2024-12-07 04:42:10 +0000"
     },
     "done": true
   },

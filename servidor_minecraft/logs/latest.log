@@ -798,3 +798,16 @@
 [07Dec2024 04:29:30.963] [Worker-Main-275/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
 [07Dec2024 04:30:21.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to junior_mtz_]
 [07Dec2024 04:31:38.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [My Name is Nobody]
+[07Dec2024 04:34:11.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to JhynMC]
+[07Dec2024 04:34:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -348.500000, 81.500000, 1066.500000]
+[07Dec2024 04:34:16.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported junior_mtz_ to JhynMC]
+[07Dec2024 04:41:32.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to NoSoyYoshiGordo]
+[07Dec2024 04:41:32.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo was slain by Zombie
+[07Dec2024 04:41:36.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: junior_mtz_ moved too quickly! 1.6754412763982032,-11.141611616128841,-0.1648654224409256
+[07Dec2024 04:42:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported NoSoyYoshiGordo to JhynMC]
+[07Dec2024 04:42:10.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo has made the advancement [What Was That!?]
+[07Dec2024 04:42:10.182] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['NoSoyYoshiGordo'/185118, l='ServerLevel[world]', x=-239.43, y=80.00, z=1014.84] died: NoSoyYoshiGordo was blown up by Creeperling
+[07Dec2024 04:42:11.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['NoSoyYoshiGordo'/184648, l='ServerLevel[world]', x=-238.50, y=80.00, z=1019.84] died: NoSoyYoshiGordo was slain by Zombie
+[07Dec2024 04:42:17.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Timed out
+[07Dec2024 04:42:17.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[07Dec2024 04:42:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JhynMC: Teleported JhynMC to -413.500000, 85.500000, 1128.500000]
