@@ -3036,3 +3036,36 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [08Dec2024 02:58:59.827] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:52925] logged in with entity id 2385 at (-348.5, 86.03584062504456, 1066.5)
 [08Dec2024 02:58:59.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
 [08Dec2024 02:58:59.846] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[08Dec2024 03:09:13.326] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-176, y=7, z=918} BlockPos{x=-175, y=4, z=918}
+[08Dec2024 03:09:27.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=-7, z=918} BlockPos{x=-164, y=-11, z=918}
+[08Dec2024 03:09:27.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=-7, z=918} BlockPos{x=-164, y=-11, z=918}
+[08Dec2024 03:11:47.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported NoSoyYoshiGordo to junior_mtz_]
+[08Dec2024 03:12:14.111] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marry'/5430, l='ServerLevel[world]', x=-225.70, y=79.00, z=919.47] died, message: 'Marry was slain by Zombie'
+[08Dec2024 03:12:14.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marry'/5430, l='ServerLevel[world]', x=-225.70, y=79.00, z=919.47] died: Marry was slain by Zombie
+[08Dec2024 03:16:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: junior_mtz_ has made the advancement [Chest Slayer]
+[08Dec2024 03:22:20.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[08Dec2024 03:27:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [junior_mtz_: Teleported NoSoyYoshiGordo to junior_mtz_]
+[08Dec2024 03:27:17.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Timed out
+[08Dec2024 03:27:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[08Dec2024 03:28:12.260] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65dac874[id=<null>,name=NoSoyYoshiGordo,properties={},legacy=false] (/127.149.90.143:58965) lost connection: Disconnected
+[08Dec2024 03:28:32.177] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[08Dec2024 03:28:40.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:53055] logged in with entity id 16306 at (-389.79509573711954, -59.0, 695.263201279346)
+[08Dec2024 03:28:40.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[08Dec2024 03:28:40.095] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[08Dec2024 03:29:10.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NoSoyYoshiGordo lost connection: Timed out
+[08Dec2024 03:29:10.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo left the game
+[08Dec2024 03:29:39.037] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player NoSoyYoshiGordo is 2a9282bd-1cd0-4052-9051-e0c8503b701f
+[08Dec2024 03:29:47.087] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NoSoyYoshiGordo[/127.149.90.143:53881] logged in with entity id 16940 at (-389.79509573711954, -59.0, 695.263201279346)
+[08Dec2024 03:29:47.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NoSoyYoshiGordo joined the game
+[08Dec2024 03:29:47.120] [Server thread/INFO] [Jade/]: Syncing config to NoSoyYoshiGordo (2a9282bd-1cd0-4052-9051-e0c8503b701f)
+[08Dec2024 03:30:38.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=6, z=863} BlockPos{x=-257, y=8, z=865}
+[08Dec2024 03:30:38.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=6, z=863} BlockPos{x=-257, y=8, z=865}
+[08Dec2024 03:30:38.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=6, z=863} BlockPos{x=-257, y=8, z=865}
+[08Dec2024 03:31:15.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=29, z=895} BlockPos{x=-257, y=30, z=895}
+[08Dec2024 03:31:16.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=29, z=895} BlockPos{x=-257, y=30, z=895}
+[08Dec2024 03:31:16.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=29, z=895} BlockPos{x=-257, y=30, z=895}
+[08Dec2024 03:31:16.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=29, z=895} BlockPos{x=-257, y=30, z=895}
+[08Dec2024 03:31:16.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=29, z=895} BlockPos{x=-257, y=30, z=895}
+[08Dec2024 03:31:16.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=29, z=895} BlockPos{x=-257, y=30, z=895}
+[08Dec2024 03:33:25.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=77, z=942} BlockPos{x=-327, y=77, z=942}
+[08Dec2024 03:33:25.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=77, z=942} BlockPos{x=-327, y=77, z=942}
